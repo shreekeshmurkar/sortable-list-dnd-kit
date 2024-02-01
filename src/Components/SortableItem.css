@@ -1,0 +1,8 @@
+.item {
+    background: #2a5ea4;
+    margin: 7px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    touch-action: none;
+}
